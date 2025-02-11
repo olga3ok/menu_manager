@@ -6,3 +6,7 @@
 ```
 docker-compose up --build
 ```
+### Пример запроса:
+```
+curl -X GET http://127.0.0.1/api/v1/foods
+```
